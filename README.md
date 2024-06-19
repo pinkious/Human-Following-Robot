@@ -2,4 +2,6 @@ The programming that goes into the robot’s movement is comprised of two functi
 
 ![image](https://github.com/pinkious/Human-Following-Robot/assets/119024361/1ac1841e-f000-4b24-bf26-d1f823567a9b)
 
-The final result of the project is included below and in the Executive Summary.
+The final result of the project is included below.
+
+![20240619_024229](https://github.com/pinkious/Human-Following-Robot/assets/119024361/661efee0-3acb-431e-a67a-5d7970fa0572)
